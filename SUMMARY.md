@@ -12,6 +12,7 @@
 ## 😁 AD CS Enumeration
 
 * [Groups](ad-cs-enumeration/groups.md)
+* [Extract the Private Key](ad-cs-enumeration/extract-the-private-key.md)
 
 ## AD CS Local Privilege Escalation
 
