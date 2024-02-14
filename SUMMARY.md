@@ -1,16 +1,31 @@
 # Table of contents
 
-* [AD CS (CESP – ADCS)](README.md)
-* [AD CS Attacks](ad-cs-attacks.md)
-* [Tools](tools.md)
-* [🥰 Methodology](methodology.md)
+* [🔥 AD CS Certification](README.md)
 
-## 🔥 Learn AD CS&#x20;
+## 1⃣ Learn AD CS (Module 1)
 
-* [Active Directory Certificate Services (AD CS)](learn-ad-cs/active-directory-certificate-services-ad-cs.md)
+* [Active Directory Certificate Services (AD CS)](learn-ad-cs-module-1/active-directory-certificate-services-ad-cs.md)
+* [AD CS Components](learn-ad-cs-module-1/ad-cs-components.md)
+* [Certificate Formats](learn-ad-cs-module-1/certificate-formats.md)
+* [Certificate Atributes](learn-ad-cs-module-1/certificate-atributes.md)
+* [Containers in AD](learn-ad-cs-module-1/containers-in-ad.md)
 
-## 😁 AD CS Enumeration
+## 2⃣ AD CS Attacks  (Module 2)
 
+* [Attacks List](ad-cs-attacks-module-2/attacks-list.md)
+
+## 3⃣ Basics of AD CS Attacks (Module 3)
+
+* [Page 2](basics-of-ad-cs-attacks-module-3/page-2.md)
+
+## 4⃣ AD CS Patches (Module 4)
+
+* [Page 10](ad-cs-patches-module-4/page-10.md)
+
+## 5⃣ AD CS Enumeration
+
+* [🥰 Methodology](ad-cs-enumeration/methodology.md)
+* [Tools](ad-cs-enumeration/tools.md)
 * [Groups](ad-cs-enumeration/groups.md)
 * [Extract the Private Key](ad-cs-enumeration/extract-the-private-key.md)
 
@@ -45,7 +60,3 @@
 ## Evasion and Bypasses
 
 * [Page 9](evasion-and-bypasses/page-9.md)
-
-## AD CS Defence - Prevention and Detection
-
-* [Page 10](ad-cs-defence-prevention-and-detection/page-10.md)

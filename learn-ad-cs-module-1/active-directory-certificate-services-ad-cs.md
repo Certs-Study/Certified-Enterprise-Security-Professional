@@ -1,5 +1,7 @@
 # Active Directory Certificate Services (AD CS)
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Terminology
 
 > * **PKI** (Public Key Infrastructure) — a system to manage certificates/public key encryption
