@@ -30,7 +30,8 @@
 
 ## 4⃣ AD CS Patches (Module 4)
 
-* [Page 10](ad-cs-patches-module-4/page-10.md)
+* [CBA patch](ad-cs-patches-module-4/cba-patch.md)
+* [ADCS SID Extension Policy Module](ad-cs-patches-module-4/adcs-sid-extension-policy-module.md)
 
 ## 5⃣ AD CS Enumeration
 
