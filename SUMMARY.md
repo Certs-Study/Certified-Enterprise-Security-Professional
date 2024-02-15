@@ -12,11 +12,14 @@
 
 ## 2⃣ AD CS Attacks  (Module 2)
 
-* [Attacks List](ad-cs-attacks-module-2/attacks-list.md)
+* [Attack](ad-cs-attacks-module-2/attack.md)
+* [Prevention](ad-cs-attacks-module-2/prevention.md)
+* [Detection](ad-cs-attacks-module-2/detection.md)
 
 ## 3⃣ Basics of AD CS Attacks (Module 3)
 
-* [Page 2](basics-of-ad-cs-attacks-module-3/page-2.md)
+* [Tools](basics-of-ad-cs-attacks-module-3/tools.md)
+* [AV Bypass](basics-of-ad-cs-attacks-module-3/av-bypass.md)
 
 ## 4⃣ AD CS Patches (Module 4)
 
