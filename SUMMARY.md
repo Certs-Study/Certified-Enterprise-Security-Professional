@@ -7,7 +7,7 @@
 * [Active Directory Certificate Services (AD CS)](learn-ad-cs-module-1/active-directory-certificate-services-ad-cs.md)
 * [AD CS Components](learn-ad-cs-module-1/ad-cs-components.md)
 * [Certificate Formats](learn-ad-cs-module-1/certificate-formats.md)
-* [Certificate Atributes](learn-ad-cs-module-1/certificate-atributes.md)
+* [Certificate Attributes](learn-ad-cs-module-1/certificate-attributes.md)
 * [Containers in AD](learn-ad-cs-module-1/containers-in-ad.md)
 
 ## 2⃣ AD CS Attacks  (Module 2)

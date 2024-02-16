@@ -1,4 +1,4 @@
-# Attacks List
+# Attack
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,13 +26,25 @@
 
 ### Domain Privilege Escalation
 
+In Active Directory Certificate Services (AD CS), privilege escalation typically involves exploiting vulnerabilities or misconfigurations within the certificate authority (CA) structure or its deployment.
 
+Techniques for escalation can range from intercepting and modifying certificate signing requests (ESCs 1-3) to leveraging flaws in CA security practices or protocols (ESCs 4-11), such as the notable Certifried vulnerability CVE-2022-26923.&#x20;
+
+This particular exploit allows attackers to gain higher privileges within the domain by crafting malicious certificate requests.&#x20;
+
+Understanding and mitigating these vulnerabilities is crucial for maintaining a secure AD CS environment.
 
 <table><thead><tr><th>Technique ID</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>ESC1</td><td></td><td></td></tr><tr><td>ESC2</td><td></td><td></td></tr><tr><td>ESC3</td><td></td><td></td></tr><tr><td>ESC4</td><td></td><td></td></tr><tr><td>ESC5</td><td></td><td></td></tr><tr><td>ESC6</td><td></td><td></td></tr><tr><td>ESC7</td><td></td><td></td></tr><tr><td>ESC8</td><td></td><td></td></tr><tr><td>ESC9</td><td></td><td></td></tr><tr><td>ESC10</td><td></td><td></td></tr><tr><td>ESC11</td><td></td><td></td></tr><tr><td>Certifried CVE-2022-26923</td><td></td><td></td></tr></tbody></table>
 
 ### Domain Persistence
 
+Domain persistence within Active Directory Certificate Services (AD CS) can be achieved through several methods involving the exploitation of certificate authority (CA) mechanisms.&#x20;
 
+Techniques include forging domain certificates by obtaining stolen CA Root certificates and private keys (DPERSIST1), or by leveraging stolen external Trusted Root certificates and private keys after adding them to the root or NTAuthCA certificates container (DPERSIST2).&#x20;
+
+Additionally, persistence can be secured by backdooring the CA server utilizing malicious misconfigurations, similar to those described in ESC4 (DPERSIST3).&#x20;
+
+These methods ensure sustained unauthorized access to the domain, enabling attackers to maintain a foothold within the environment without immediate detection.
 
 <table><thead><tr><th>Technique ID</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>DPERSIST1</td><td>Forge ANY domain certificate using stolen CA Root certificate and private keys</td><td></td></tr><tr><td>DPERSIST2</td><td>Forge ANY domain certificate using stolen external Trusted Root certificate and private keys (added root/ NTAuthCAcertificates container)</td><td></td></tr><tr><td>DPERSIST3</td><td>Backdoor CA server using malicious misconfigurations like ESC4 that can later cause a domain escalation</td><td></td></tr></tbody></table>
 
