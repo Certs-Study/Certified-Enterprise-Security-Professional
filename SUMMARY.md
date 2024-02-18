@@ -42,7 +42,7 @@
 
 ## AD CS Local Privilege Escalation
 
-* [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation/esc1-understand-the-arbitrary-subject-alternative-name-vulnerability.md)
+* [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation/page-1.md)
 
 ## AD CS Domain Privilege Escalation
 
