@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔥 AD CS Certification](README.md)
+* [🔥 CESP Certification](README.md)
 
 ## 1⃣ Learn AD CS (Module 1)
 
