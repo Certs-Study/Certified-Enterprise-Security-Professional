@@ -2,7 +2,11 @@
 
 * [🔥 CESP Certification](README.md)
 
-## 1⃣ Learn AD CS (Module 1)
+## 🔥 RFS Methodology
+
+* [Page 1](rfs-methodology/page-1.md)
+
+## 1️⃣ Learn AD CS (Module 1)
 
 * [Active Directory Certificate Services (AD CS)](learn-ad-cs-module-1/active-directory-certificate-services-ad-cs.md)
 * [AD CS Components](learn-ad-cs-module-1/ad-cs-components.md)
@@ -10,13 +14,13 @@
 * [Certificate Attributes](learn-ad-cs-module-1/certificate-attributes.md)
 * [Containers in AD](learn-ad-cs-module-1/containers-in-ad.md)
 
-## 2⃣ AD CS Attacks  (Module 2)
+## 2️⃣ AD CS Attacks  (Module 2)
 
 * [Attack](ad-cs-attacks-module-2/attack.md)
 * [Prevention](ad-cs-attacks-module-2/prevention.md)
 * [Detection](ad-cs-attacks-module-2/detection.md)
 
-## 3⃣ Basics of AD CS Attacks (Module 3)
+## 3️⃣ Basics of AD CS Attacks (Module 3)
 
 * [Tools](basics-of-ad-cs-attacks-module-3/tools.md)
 * [AV Bypass](basics-of-ad-cs-attacks-module-3/av-bypass.md)
@@ -28,12 +32,12 @@
 * [UnPAC the Hash](basics-of-ad-cs-attacks-module-3/unpac-the-hash.md)
 * [S4U2Self Attack](basics-of-ad-cs-attacks-module-3/s4u2self-attack.md)
 
-## 4⃣ AD CS Patches (Module 4)
+## 4️⃣ AD CS Patches (Module 4)
 
 * [CBA patch](ad-cs-patches-module-4/cba-patch.md)
 * [ADCS SID Extension Policy Module](ad-cs-patches-module-4/adcs-sid-extension-policy-module.md)
 
-## 5⃣ AD CS Enumeration
+## 5️⃣ AD CS Enumeration
 
 * [🥰 Methodology](ad-cs-enumeration/methodology.md)
 * [Tools](ad-cs-enumeration/tools.md)
@@ -71,3 +75,7 @@
 ## Evasion and Bypasses
 
 * [Page 9](evasion-and-bypasses/page-9.md)
+
+## Group 1
+
+* [Page 2](group-1/page-2.md)
