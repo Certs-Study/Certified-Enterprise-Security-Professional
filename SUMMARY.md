@@ -37,16 +37,18 @@
 * [CBA patch](ad-cs-patches-module-4/cba-patch.md)
 * [ADCS SID Extension Policy Module](ad-cs-patches-module-4/adcs-sid-extension-policy-module.md)
 
-## 5️⃣ AD CS Enumeration
+## 5️⃣ AD CS Enumeration (Module 5)
 
-* [🥰 Methodology](ad-cs-enumeration/methodology.md)
-* [Tools](ad-cs-enumeration/tools.md)
-* [Groups](ad-cs-enumeration/groups.md)
-* [Extract the Private Key](ad-cs-enumeration/extract-the-private-key.md)
+* [🥰 Methodology](ad-cs-enumeration-module-5/methodology.md)
+* [Tools](ad-cs-enumeration-module-5/tools.md)
+* [🟢 CAs Info](ad-cs-enumeration-module-5/cas-info.md)
+* [Groups](ad-cs-enumeration-module-5/groups.md)
+* [Extract the Private Key](ad-cs-enumeration-module-5/extract-the-private-key.md)
 
-## AD CS Local Privilege Escalation
+## 6️⃣ AD CS Local Privilege Escalation (Module 6)
 
-* [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation/page-1.md)
+* [CertPotato](ad-cs-local-privilege-escalation-module-6/certpotato.md)
+* [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation-module-6/esc1-understand-the-arbitrary-subject-alternative-name-vulnerability.md)
 
 ## AD CS Domain Privilege Escalation
 
