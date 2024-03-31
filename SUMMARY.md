@@ -25,17 +25,17 @@
 * [Tools](basics-of-ad-cs-attacks-module-3/tools.md)
 * [AV Bypass](basics-of-ad-cs-attacks-module-3/av-bypass.md)
 * [Payload Delivery](basics-of-ad-cs-attacks-module-3/payload-delivery.md)
-* [Bypass PowerShell Logging](basics-of-ad-cs-attacks-module-3/bypass-powershell-logging.md)
+* [🟢 Bypass PowerShell Logging](basics-of-ad-cs-attacks-module-3/bypass-powershell-logging.md)
 * [WinRS](basics-of-ad-cs-attacks-module-3/winrs.md)
-* [Certificate Management](basics-of-ad-cs-attacks-module-3/certificate-management.md)
-* [Pass the Cert](basics-of-ad-cs-attacks-module-3/pass-the-cert.md)
-* [UnPAC the Hash](basics-of-ad-cs-attacks-module-3/unpac-the-hash.md)
-* [S4U2Self Attack](basics-of-ad-cs-attacks-module-3/s4u2self-attack.md)
+* [🟢 Certificate Management](basics-of-ad-cs-attacks-module-3/certificate-management.md)
+* [🟢 Pass the Cert](basics-of-ad-cs-attacks-module-3/pass-the-cert.md)
+* [🟢 UnPAC the Hash](basics-of-ad-cs-attacks-module-3/unpac-the-hash.md)
+* [🟢 S4U2Self Attack](basics-of-ad-cs-attacks-module-3/s4u2self-attack.md)
 
 ## 4️⃣ AD CS Patches (Module 4)
 
-* [CBA patch](ad-cs-patches-module-4/cba-patch.md)
-* [ADCS SID Extension Policy Module](ad-cs-patches-module-4/adcs-sid-extension-policy-module.md)
+* [🟢 CBA patch](ad-cs-patches-module-4/cba-patch.md)
+* [🟢 ADCS SID Extension Policy Module](ad-cs-patches-module-4/adcs-sid-extension-policy-module.md)
 
 ## 5️⃣ AD CS Enumeration (Module 5)
 
