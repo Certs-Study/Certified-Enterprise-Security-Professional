@@ -1,4 +1,4 @@
-# Certificate Formats
+# 🟢 Certificate Formats
 
 ### Certificate Formats Explained
 

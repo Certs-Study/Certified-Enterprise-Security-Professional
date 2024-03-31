@@ -9,8 +9,8 @@
 ## 1️⃣ Learn AD CS (Module 1)
 
 * [Active Directory Certificate Services (AD CS)](learn-ad-cs-module-1/active-directory-certificate-services-ad-cs.md)
-* [AD CS Components](learn-ad-cs-module-1/ad-cs-components.md)
-* [Certificate Formats](learn-ad-cs-module-1/certificate-formats.md)
+* [🟢 AD CS Components](learn-ad-cs-module-1/ad-cs-components.md)
+* [🟢 Certificate Formats](learn-ad-cs-module-1/certificate-formats.md)
 * [Certificate Attributes](learn-ad-cs-module-1/certificate-attributes.md)
 * [Containers in AD](learn-ad-cs-module-1/containers-in-ad.md)
 
@@ -47,7 +47,7 @@
 
 ## 6️⃣ AD CS Local Privilege Escalation (Module 6)
 
-* [CertPotato](ad-cs-local-privilege-escalation-module-6/certpotato.md)
+* [🟢 CertPotato](ad-cs-local-privilege-escalation-module-6/certpotato.md)
 * [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation-module-6/esc1-understand-the-arbitrary-subject-alternative-name-vulnerability.md)
 
 ## AD CS Domain Privilege Escalation
