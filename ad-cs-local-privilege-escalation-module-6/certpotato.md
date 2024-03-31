@@ -2,6 +2,8 @@
 
 Virtual accounts (like apppool\defaultapppool) are used by services on a Windows machine. These are local managed service accounts.
 
+### Virtual accounts
+
 Virtual accounts allow Windows services to run without the need for a traditional user account or the ongoing management that such accounts necessitate. This simplifies administration and enhances security. For instance, IIS (Internet Information Services) uses the `apppool\defaultapppool` virtual account to isolate different web applications, reducing the risk of one compromised application affecting others.
 
 These accounts:
