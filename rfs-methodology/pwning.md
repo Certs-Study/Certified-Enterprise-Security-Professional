@@ -2,9 +2,14 @@
 
 ### Assumed Breach
 
+After getting access into a machine we need to start understanding the system we are In!
 
+Organize all the common tools you use and
 
-```mermaid
+```mermaid fullWidth="true"
+---
+title: CESP
+---
 mindmap
   root((RFS))
     Enumeration
@@ -17,6 +22,8 @@ mindmap
 
     Certificates
       Working with<br/>Certificates
+        Read Certificated Content
+        Convert Certificate
       Kerberos
         Uses
             RBCD
@@ -26,5 +33,8 @@ mindmap
       InvisiShell
       Certify
 
+    Bypassing Defenses
+      ConfuseX
+      Loader
 
 ```
