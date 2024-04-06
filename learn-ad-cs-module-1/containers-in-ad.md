@@ -1,13 +1,10 @@
 # Containers in AD
 
-• Public Key Services container under ‘Configuration Naming Context’ contains all AD CS related containers.&#x20;
+**Active Directory Certificate Services Containers:**
 
-• Some of the interesting containers are:&#x20;
+* **Certificate Templates:** Stores certificate templates utilized by Enterprise CAs for generating certificates.
+* **Certification Authorities:** This container holds trusted root certificates ensuring security across the network. These certificates are automatically disseminated to each client’s Trusted Root Certification Authorities via Group Policy, establishing a base of trust.
+* **Enrollment Services:** Focuses on housing Enterprise CA objects. It is instrumental for clients in finding Enterprise CAs. Similar to the Certification Authorities container, certificates here are also propagated to each client’s Intermediate Certification Authorities through Group Policy.
+* **NTAuthCertificates:** A specialized container storing certificates from CAs authorized to issue smart card logon certificates and manage client private key archival. For a smart card logon to proceed successfully, the issuing CA’s certificate must be present in this container, acting as a critical security measure.
 
-– Certificate Templates Stores certificate templates used by Enterprise CAs.&#x20;
-
-– Certification Authorities Stores trusted root certificates. All certificates from this container are propagated to each client’s Trusted Root Certification Authorities through Group Policy.&#x20;
-
-– Enrollment Services Stores Enterprise CA objects. Used by clients to locate Enterprise CAs. All certificates from this container are propagated to each client’s Intermediate Certification Authorities through Group Policy.&#x20;
-
-– NTAuthCertificates Stores certificates for CAs that can issue smart card logon certificates and perform client private key archival. A smart card logon fails if there is no entry for the issuer here.
+These containers play pivotal roles in the management and deployment of certificates within a network, ensuring authentication, authorization, and secure communication.

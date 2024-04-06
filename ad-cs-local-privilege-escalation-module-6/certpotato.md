@@ -1,4 +1,4 @@
-# CertPotato
+# 🟢 CertPotato
 
 Virtual accounts (like apppool\defaultapppool) are used by services on a Windows machine. These are local managed service accounts.
 

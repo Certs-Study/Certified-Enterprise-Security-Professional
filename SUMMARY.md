@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🔥 CESP Certification](README.md)
+* [CESP Certification](README.md)
 
 ## 🔥 RFS Methodology
 
-* [Page 1](rfs-methodology/page-1.md)
+* [Pwning](rfs-methodology/pwning.md)
 
 ## 1️⃣ Learn AD CS (Module 1)
 

@@ -1,15 +1,17 @@
 ---
 description: >-
-  "Discover insightful information about AD CS (CESP - ADCS), its applications,
+  Discover insightful information about AD CS (CESP - ADCS), its applications,
   and implications in our latest in-depth article. Get expert analysis and
-  understanding on AD CS (CESP - ADCS) here."
+  understanding on AD CS (CESP - ADCS) here.
 ---
 
-# 🔥 AD CS Certification
+# CESP Certification
 
 <figure><img src=".gitbook/assets/ADCS-Diagram-transperent-BG-min.webp" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.alteredsecurity.com/adcs" %}
+
+{% @mailchimp/mailchimpSubscribe %}
 
 ### **AD CS Price**
 
