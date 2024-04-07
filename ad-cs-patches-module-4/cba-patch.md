@@ -1,3 +1,10 @@
+---
+description: >-
+  Discover the significance of the CBA patch in our in-depth article. Explore
+  its essential role in software updates, its impact on performance, and the
+  latest developments in the field. Unravel CBA pat
+---
+
 # 🟢 CBA patch
 
 The CBA patch hinders Subject AltName abuses such as ESC1, ESC2, ESC3 and breaks CA Configuration abuses like ESC6, ESC9, ESC10.&#x20;

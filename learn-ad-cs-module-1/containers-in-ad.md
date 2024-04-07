@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our comprehensive guide on Containers in AD and gain an in-depth
+  understanding of their role in domain structure, benefits, and management.
+  Improve your AD knowledge today.
+---
+
 # Containers in AD
 
 **Active Directory Certificate Services Containers:**

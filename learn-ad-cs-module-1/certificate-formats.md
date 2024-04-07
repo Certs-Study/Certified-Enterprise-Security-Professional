@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore the vital ins and outs of various Certificate Formats in our
+  comprehensive guide. Enhance knowledge on certificate types, significance and
+  how to optimize them for use.
+---
+
 # 🟢 Certificate Formats
 
 ### Certificate Formats Explained

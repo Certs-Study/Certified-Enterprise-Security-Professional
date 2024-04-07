@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our comprehensive article on Active Directory Certificate Services (AD
+  CS). Learn how AD CS enhances security and facilitates data management in
+  network environments.
+---
+
 # Active Directory Certificate Services (AD CS)
 
 ### Terminology

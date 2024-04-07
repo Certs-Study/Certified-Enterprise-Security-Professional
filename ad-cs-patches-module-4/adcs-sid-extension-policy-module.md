@@ -1,3 +1,11 @@
+---
+description: >-
+  Delve into our comprehensive article about ADCS SID Extension Policy Module, a
+  vital component improving operational security and efficiency. Explore its
+  formulation, application, and benefits!
+coverY: 0
+---
+
 # 🟢 ADCS SID Extension Policy Module
 
 ### ADCS SID Extension Policy Module

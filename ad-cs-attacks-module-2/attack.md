@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore the intricacies of the Attack AD CS in this comprehensive article.
+  Uncover the techniques, threats, and defense strategies against this
+  cybersecurity concern.
+---
+
 # Attack
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -14,13 +21,9 @@
 
 ### Theft and Collection
 
-
-
 <table><thead><tr><th>Technique ID</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>THEFT1</td><td>Exporting certificates and their private keys using Window’s Crypto APIs</td><td></td></tr><tr><td>THEFT2</td><td>Extracting User certificates and private keys using DPAPI</td><td></td></tr><tr><td>THEFT3</td><td>Extracting Computer certificates and private keys using DPAPI</td><td></td></tr><tr><td>THEFT4</td><td>Theft of existing certificates on disk</td><td></td></tr><tr><td>THEFT5</td><td>Using the Kerberos PKINIT protocol to retrieve a User/Computer account’s NTLM hash</td><td></td></tr></tbody></table>
 
 ### Local Persistence
-
-
 
 <table><thead><tr><th>Technique ID</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>PERSIST1</td><td>User account persistence using new certificate requests</td><td></td></tr><tr><td>PERSIST2</td><td>Computer account persistence using new certificate requests</td><td></td></tr><tr><td>PERSIST3</td><td>User/Computer Account persistence by certificate renewal before expiration</td><td></td></tr></tbody></table>
 

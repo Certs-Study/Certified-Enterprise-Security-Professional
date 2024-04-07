@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our comprehensive article that provides a step-by-step guide on how to
+  successfully Pass the Cert. Dive into tips, strategies, and resources to ace
+  your certification exam.
+---
+
 # 🟢 Pass the Cert
 
 ### PTC using Schannel

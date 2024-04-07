@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our comprehensive article covering all aspects of Certificate
+  Management, from its vital role in cybersecurity to advanced strategies for
+  effective implementation.
+---
+
 # 🟢 Certificate Management
 
 ### Request Certificate

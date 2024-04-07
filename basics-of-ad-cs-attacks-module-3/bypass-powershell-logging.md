@@ -1,3 +1,10 @@
+---
+description: >-
+  Discover our comprehensive guide on Bypass PowerShell Logging. Delve into the
+  insights and tactics used to avoid detection in scripting activities. Expand
+  your cybersecurity knowledge now.
+---
+
 # 🟢 Bypass PowerShell Logging
 
 #### Bypass PowerShell Logging

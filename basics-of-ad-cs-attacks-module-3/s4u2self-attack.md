@@ -1,8 +1,15 @@
+---
+description: >-
+  Delve into our comprehensive article about the S4U2Self Attack. Understand its
+  mechanisms, impacts, and measures for prevention and security enhancement.
+  Explore more today.
+---
+
 # 🟢 S4U2Self Attack
 
-"S4U2Self (Service for User to Self) is an extension that allows a service to obtain a service ticket (TGS) on behalf of a user to itself."
+S4U2Self (Service for User to Self) is an extension that allows a service to obtain a service ticket (TGS) on behalf of a user to itself.
 
-#### S4U2Self Attack
+### S4U2Self Attack
 
 The S4U2Self Attack exploits the S4U2Self extension in Kerberos authentication.&#x20;
 
