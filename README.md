@@ -11,7 +11,8 @@ description: >-
      data-ad-client="ca-pub-9236847887178276"
      data-ad-slot="6730727864"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-full-width-responsive="true">
+</ins>
 
 <figure><img src=".gitbook/assets/ADCS-Diagram-transperent-BG-min.webp" alt=""><figcaption></figcaption></figure>
 
@@ -31,3 +32,10 @@ Hands-on experience is critical for mastering AD CS, and an AD CS lab provides a
 
 Earning an AD CS certification requires passing a specific exam that tests your knowledge and skills in implementing and managing Microsoft Active Directory Certificate Services. The exam covers topics such as installation, configuration, management, and troubleshooting of AD CS.
 
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9236847887178276"
+     data-ad-slot="6730727864"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
