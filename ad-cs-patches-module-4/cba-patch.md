@@ -9,6 +9,8 @@ description: >-
 
 The CBA patch hinders Subject AltName abuses such as ESC1, ESC2, ESC3 and breaks CA Configuration abuses like ESC6, ESC9, ESC10.&#x20;
 
+### CBA patch
+
 • Before the Full Enforcement patch date (Nov 14, 2023 for now available as OOB update) the " key value in the HKEY\_LOCAL\_MACHINE SYSTEM CurrentControlSet Services Kdc Registry Subkey can be altered in 3 states to set Certificate-based Authentication checks.&#x20;
 
 – **Disabled**: 0 ––> SID Mapping checks are disable

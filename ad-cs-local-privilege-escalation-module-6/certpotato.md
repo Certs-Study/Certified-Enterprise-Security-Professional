@@ -4,7 +4,11 @@ Virtual accounts (like apppool\defaultapppool) are used by services on a Windows
 
 ### Virtual accounts
 
-Virtual accounts allow Windows services to run without the need for a traditional user account or the ongoing management that such accounts necessitate. This simplifies administration and enhances security. For instance, IIS (Internet Information Services) uses the `apppool\defaultapppool` virtual account to isolate different web applications, reducing the risk of one compromised application affecting others.
+Virtual accounts allow Windows services to run without the need for a traditional user account or the ongoing management that such accounts necessitate.&#x20;
+
+This simplifies administration and enhances security.&#x20;
+
+For instance, IIS (Internet Information Services) uses the `apppool\defaultapppool` virtual account to isolate different web applications, reducing the risk of one compromised application affecting others.
 
 These accounts:
 
@@ -16,7 +20,9 @@ To configure a service to use a virtual account, set the service's logon account
 
 ### CertPotato
 
-The CertPotato vulnerability presents a significant security risk, particularly as it exploits a particular aspect of virtual accounts to escalate privileges within a system. Specifically, this vulnerability allows an attacker to leverage virtual accounts in order to obtain the context of a machine account.&#x20;
+The CertPotato vulnerability presents a significant security risk, particularly as it exploits a particular aspect of virtual accounts to escalate privileges within a system.&#x20;
+
+Specifically, this vulnerability allows an attacker to leverage virtual accounts in order to obtain the context of a machine account.&#x20;
 
 By doing so, the attacker can execute operations or access resources that should only be accessible to that machine account, thereby circumventing established security measures and gaining unauthorized control or access to sensitive processes and data.&#x20;
 
@@ -33,7 +39,7 @@ Rubeus.exe s4u /self /impersonateuser:Administrator /altservice:cifs/cb-webapp1.
 /dc:cb-dc.certbulk.cb.corp /user:'cb-webapp1$' /rc4:B2FCBA1C3570AB9418994799B9BC985A /ptt
 ```
 
-#### Mitigation Strategies for CertPotato Vulnerability
+### Mitigation Strategies for CertPotato Vulnerability
 
 To secure systems against the CertPotato vulnerability and similar threats, organizations should consider implementing the following mitigation strategies:
 
