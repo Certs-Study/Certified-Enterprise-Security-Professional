@@ -12,9 +12,7 @@ description: >-
      data-ad-slot="6730727864"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <figure><img src=".gitbook/assets/ADCS-Diagram-transperent-BG-min.webp" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.alteredsecurity.com/adcs" %}
