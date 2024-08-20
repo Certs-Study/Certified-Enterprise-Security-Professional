@@ -14,7 +14,7 @@
 * [Certificate Attributes](learn-ad-cs-module-1/certificate-attributes.md)
 * [Containers in AD](learn-ad-cs-module-1/containers-in-ad.md)
 
-## 2️⃣ AD CS Attacks  (Module 2)
+## 2️⃣ AD CS Attacks (Module 2)
 
 * [Attack](ad-cs-attacks-module-2/attack.md)
 * [Prevention](ad-cs-attacks-module-2/prevention.md)
@@ -48,7 +48,7 @@
 ## 6️⃣ AD CS Local Privilege Escalation (Module 6)
 
 * [🟢 CertPotato](ad-cs-local-privilege-escalation-module-6/certpotato.md)
-* [ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation-module-6/esc1-understand-the-arbitrary-subject-alternative-name-vulnerability.md)
+* [🟢 ESC1 – Understand the Arbitrary Subject Alternative Name Vulnerability](ad-cs-local-privilege-escalation-module-6/esc1-understand-the-arbitrary-subject-alternative-name-vulnerability.md)
 
 ## AD CS Domain Privilege Escalation
 
