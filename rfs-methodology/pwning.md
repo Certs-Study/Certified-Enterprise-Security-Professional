@@ -7,7 +7,13 @@ coverY: 0
 ---
 
 # Pwning
-
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9236847887178276"
+     data-ad-slot="6730727864"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
 ### Assumed Breach
 
 After getting access into a machine we need to start understanding the system we are In!
